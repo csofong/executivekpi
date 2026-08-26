@@ -1,6 +1,6 @@
 # 📊 Executive KPI Reporting Template
 
-A ready-to-use Excel workbook for tracking **Revenue Achievement** and **Days Sales Outstanding (DSO)** — the two KPIs most frequently reported to C-suite executives in revenue cycle and financial administration roles.
+A ready-to-use Excel workbook for tracking **Revenue Achievement** and **Days Sales Outstanding (DSO)**  the two KPIs most frequently reported to C-suite executives in revenue cycle and financial administration roles.
 
 ## What's Inside
 
