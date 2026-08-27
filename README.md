@@ -19,8 +19,6 @@ Most "KPI dashboard" templates are one tab with a few typed in numbers. This is 
 | **Business Unit Analysis** | Full year performance side by side, with a comparison chart |
 | **Executive Dashboard** | Scorecards + 4 live charts  nothing on this tab is a typedin number |
 
-**916 formulas. Zero manual totals. Zero calculation errors.**
-
 ## What's on the Dashboard
 
 - Annual Revenue Target vs Actual, Achievement %, Gross Margin
